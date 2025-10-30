@@ -1,6 +1,6 @@
 # Hi, I'm Ryan!
 
-I'm a computer science student who loves building full stack applications to tackle my own problems!
+I'm a computer science student at the University of Washington who loves building full stack applications to tackle my own problems!
 
 ## Tech Stack
 <p align="center">
