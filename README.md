@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Ryan!
+__CS@UW__
+
+I'm a computer science student who loves building full stack applications to tackle my own problems!
 
 <!--
 **RyanOC20/ryanoc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
