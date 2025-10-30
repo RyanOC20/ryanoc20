@@ -1,5 +1,4 @@
 # Hi, I'm Ryan!
-__CS@UW__
 
 I'm a computer science student who loves building full stack applications to tackle my own problems!
 
