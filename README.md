@@ -1,8 +1,8 @@
 # Hi, I'm Ryan!
 
-I'm a computer science student at the University of Washington who loves building full stack applications to tackle my own problems!
+I'm a computer science student at the University of Washington who loves building full stack applications.
 
-## Tech Stack
+<!--## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -19,4 +19,4 @@ I'm a computer science student at the University of Washington who loves buildin
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
   <img src="https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white"/>
-</p>
+</p> -->
